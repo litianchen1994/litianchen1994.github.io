@@ -6,11 +6,11 @@ title: Publications
 
 # Publications
 
-Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 17th May 2023&nbsp
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*<br>Adv. Energy Mater.<br>2022, 12, 2103231.
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
 
