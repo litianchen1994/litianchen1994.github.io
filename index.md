@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Hui Ying Yang](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
