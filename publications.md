@@ -8,9 +8,9 @@ title: Publications
 
 Lastest Update: 18th May 2023
 
-## Conference Paper
+## During Ph.D.
 
-- [A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage](https://tianchenli.com/mypaper/2022AEM.pdf)<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, Advanced Energy Materials, 2022, 12, 2103231.
+- [A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage](https://tianchenli.com/mypaper/2022AEM.pdf)<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, Advanced Energy Materials, 2022, 12, 2103231. (Front cover)
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
 
