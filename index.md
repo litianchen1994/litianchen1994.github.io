@@ -8,7 +8,11 @@ layout: page
 
 Here is **Tianchen Li (xxxxx, 李天琛)**.
 
+<<<<<<< HEAD
 I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying). Here is [my Resume](https://tianchenli.com/file/CV-TCLi.pdf).
+=======
+I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying). Here is [my Resume](https://tianchen.com/file/Curriculum Vitae (Li Tianchen)-May 2023.pdf).
+>>>>>>> 02486aea26e56db2c8bd7a4672b4a4d053848cdb
 
 ## Research Interests
 
