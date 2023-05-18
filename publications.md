@@ -16,7 +16,7 @@ Lastest Update: 18th May 2023
 
 - Recent Progress in Aqueous Zinc-ion Batteries: A Deep Insight into Zinc Metal Anodes<br>**Tian Chen Li**, Daliang Fang, Jintao Zhang, Mei Er Pam, Zhi Yi Leong, Juezhi Yu, Xue Liang Li, Dong Yan and Hui Ying Yang*, **_Journal of Materials Chemistry A_**, 2021, 9, 6013-6028. [[PDF]](https://tianchenli.com/mypaper/2021JMCA.pdf)
 
-- Controllable Synthesis of Two-Dimensional Molybdenum Disulfide (MoS2) for Energy-Storage Applications<br>Xue Liang Li^(#)^, **Tian Chen Li^(#)^**, Shaozhuan Huang, Jian Zhang, Mei Er Pam, Hui Ying Yang*, **_ChemSusChem_**, 2020, 13, 1379-1391.
+- Controllable Synthesis of Two-Dimensional Molybdenum Disulfide (MoS2) for Energy-Storage Applications<br>Xue Liang Li^#^, **Tian Chen Li^#^**, Shaozhuan Huang, Jian Zhang, Mei Er Pam, Hui Ying Yang*, **_ChemSusChem_**, 2020, 13, 1379-1391.
 
 - A surface fluorination strategy to produce Zn anode for the 3D printable aqueous Zn batteries<br>**Tian Chen Li**, Congjian Lin, Min Luo, Xue Liang Li, Yifan Li, Hui Ying Yang*, **_Materials Today: Proceedings_**, 2022, 70, 333-338.
 
