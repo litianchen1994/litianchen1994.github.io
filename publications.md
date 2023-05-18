@@ -10,9 +10,9 @@ Lastest Update: 18th May 2023
 
 ## During Ph.D. at SUTD
 
-- A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, Advanced Energy Materials, 2022, 12, 2103231. (Front cover) [[PDF]](https://tianchenli.com/mypaper/2022AEM.pdf)
+- A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, _Advanced Energy Materials_, 2022, 12, 2103231. (Front cover) [[PDF]](https://tianchenli.com/mypaper/2022AEM.pdf)
 
-- ZnSe Modified Zinc Metal Anodes: Toward Enhanced Zincophilicity and Ionic Diffusion<br>**Tian Chen Li**, Yew Von Lim, Xuesong Xie, Xue Liang Li, Guojing Li, Daliang Fang, Yifan Li, Yee Sin Ang, Lay Kee Ang, Hui Ying Yang*, Small, 2021, 17, 2101728. [[PDF]](https://tianchenli.com/mypaper/2021SMALL.pdf)
+- ZnSe Modified Zinc Metal Anodes: Toward Enhanced Zincophilicity and Ionic Diffusion<br>**Tian Chen Li**, Yew Von Lim, Xuesong Xie, Xue Liang Li, Guojing Li, Daliang Fang, Yifan Li, Yee Sin Ang, Lay Kee Ang, Hui Ying Yang*, _Small_, 2021, 17, 2101728. [[PDF]](https://tianchenli.com/mypaper/2021SMALL.pdf)
 
 - Recent Progress in Aqueous Zinc-ion Batteries: A Deep Insight into Zinc Metal Anodes<br>**Tian Chen Li**, Daliang Fang, Jintao Zhang, Mei Er Pam, Zhi Yi Leong, Juezhi Yu, Xue Liang Li, Dong Yan and Hui Ying Yang*, Journal of Materials Chemistry A, 2021, 9, 6013-6028. [[PDF]](https://tianchenli.com/mypaper/2021JMCA.pdf)
 
