@@ -22,11 +22,11 @@ Lastest Update: 18th May 2023
 
 - Electrolyte Modulation Strategies for High Performance Zn Batteries<br>Mingming Han, **Tian Chen Li**, Dong-Sheng Li, Hui Ying Yang*, Batteries & Supercaps, 2023, 6, e202200560.
 
-- [Hydrated Eutectic Electrolyte with Ligand-Oriented Solvation Shell to Boost the Stability of Zinc Battery]<br>Mingming Han, Jiwu Huang, Xuesong Xie, **Tian Chen Li**, Jiangtao Huang, Shuquan Liang, Jiang Zhou*, Hong Jin Fan*, Advanced Functional Materials, 2022, 32, 2110957.
+- Hydrated Eutectic Electrolyte with Ligand-Oriented Solvation Shell to Boost the Stability of Zinc Battery<br>Mingming Han, Jiwu Huang, Xuesong Xie, **Tian Chen Li**, Jiangtao Huang, Shuquan Liang, Jiang Zhou*, Hong Jin Fan*, Advanced Functional Materials, 2022, 32, 2110957. [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202110957?af=R)
 
 ## During Master at CSU
 
-- [Microstructure and Wear Behavior of FeCoCrNiMo0.2 High Entropy Coatings Prepared by Air Plasma Spray and the High Velocity Oxy-Fuel Spray Processes]<br>**Tian Chen Li**, Yong Liu, Bin Liu*, Wenmin Guo*, Liyou Xu, Small, 2021, 17, 2101728. [Link](https://www.mdpi.com/2079-6412/7/9/151)
+- [Microstructure and Wear Behavior of FeCoCrNiMo0.2 High Entropy Coatings Prepared by Air Plasma Spray and the High Velocity Oxy-Fuel Spray Processes]<br>**Tian Chen Li**, Yong Liu, Bin Liu*, Wenmin Guo*, Liyou Xu, Small, 2021, 17, 2101728. [[PDF]](https://www.mdpi.com/2079-6412/7/9/151)
 
 
 ## Working Paper
