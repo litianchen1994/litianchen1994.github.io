@@ -22,7 +22,7 @@ Lastest Update: 18th May 2023
 
 - Electrolyte Modulation Strategies for High Performance Zn Batteries<br>Mingming Han, **Tian Chen Li**, Dong-Sheng Li, Hui Ying Yang*, **_Batteries & Supercaps_**, 2023, 6, e202200560.
 
-- Hydrated Eutectic Electrolyte with Ligand-Oriented Solvation Shell to Boost the Stability of Zinc Battery<br>Mingming Han, Jiwu Huang, Xuesong Xie, **Tian Chen Li**, Jiangtao Huang, Shuquan Liang, Jiang Zhou*, Hong Jin Fan*, **_Advanced Functional Materials_**, 2022, 32, 2110957. [<font color=Blue>[LINK]</font>](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202110957?af=R)
+- Hydrated Eutectic Electrolyte with Ligand-Oriented Solvation Shell to Boost the Stability of Zinc Battery<br>Mingming Han, Jiwu Huang, Xuesong Xie, **Tian Chen Li**, Jiangtao Huang, Shuquan Liang, Jiang Zhou\*, Hong Jin Fan\*, **_Advanced Functional Materials_**, 2022, 32, 2110957. [<font color=Blue>[LINK]</font>](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202110957?af=R)
 
 ## During Master at CSU
 
