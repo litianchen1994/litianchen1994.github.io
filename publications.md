@@ -16,7 +16,7 @@ Lastest Update: 18th May 2023
 
 - Recent Progress in Aqueous Zinc-ion Batteries: A Deep Insight into Zinc Metal Anodes<br>**Tian Chen Li**, Daliang Fang, Jintao Zhang, Mei Er Pam, Zhi Yi Leong, Juezhi Yu, Xue Liang Li, Dong Yan and Hui Ying Yang*, **_Journal of Materials Chemistry A_**, 2021, 9, 6013-6028. [[PDF]](https://tianchenli.com/mypaper/2021JMCA.pdf)
 
-- Controllable Synthesis of Two-Dimensional Molybdenum Disulfide (MoS2) for Energy-Storage Applications<br>Xue Liang Li<sup>#</sup>, **Tian Chen Li^#^**, Shaozhuan Huang, Jian Zhang, Mei Er Pam, Hui Ying Yang*, **_ChemSusChem_**, 2020, 13, 1379-1391.
+- Controllable Synthesis of Two-Dimensional Molybdenum Disulfide (MoS2) for Energy-Storage Applications<br>Xue Liang Li<sup>#</sup>, **Tian Chen Li<sup>#</sup>**, Shaozhuan Huang, Jian Zhang, Mei Er Pam, Hui Ying Yang*, **_ChemSusChem_**, 2020, 13, 1379-1391.
 
 - A surface fluorination strategy to produce Zn anode for the 3D printable aqueous Zn batteries<br>**Tian Chen Li**, Congjian Lin, Min Luo, Xue Liang Li, Yifan Li, Hui Ying Yang*, **_Materials Today: Proceedings_**, 2022, 70, 333-338.
 
@@ -34,6 +34,7 @@ Lastest Update: 18th May 2023
 
 - Microstructures and mechanical properties of FeCoCrNi high entropy alloy/WC reinforcing particles composite coatings prepared by laser cladding and plasma cladding<br>Yingbo Peng*, Wei Zhang*, **Tian Chen Li**, Mingyang Zhang, Li Wang, Yuanyuan Song, Songhao Hu, Yang Hu, **_International Journal of Refractory Metals and Hard Materials_**, 2019, 84, 105044. [[LINK]](https://doi.org/10.1016/j.surfcoat.2019.125326)
 
-## Working Paper
+- Microstructures and wear-resistance of WC-reinforced high entropy alloy composite coatings by plasma cladding: effect of WC morphology<br>Yingbo Peng*, Wei Zhang*, **Tian Chen Li**, Mingyang Zhang, Li Wang, Songhao Hu, **_Surface Engineering_**, 2021, 37, 678-687. [[LINK]](https://doi.org/10.1080/02670844.2020.1812480)
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- Microstructures and mechanical properties of ductile NbTaTiV refractory high entropy alloy prepared by powder metallurgy<br>13.	Wenmin Guo, Bin Liu*, Yong Liu, **Tian Chen Li**, Ao Fu, Qihong Fang, Yan Nie, **_Journal of Alloys and Compounds_**, 2019, 776, 428-436. [[LINK]](https://doi.org/10.1016/j.jallcom.2018.10.230)
+
