@@ -26,8 +26,13 @@ Lastest Update: 18th May 2023
 
 ## During Master at CSU
 
-- [Microstructure and Wear Behavior of FeCoCrNiMo0.2 High Entropy Coatings Prepared by Air Plasma Spray and the High Velocity Oxy-Fuel Spray Processes]<br>**Tian Chen Li**, Yong Liu, Bin Liu*, Wenmin Guo*, Liyou Xu, Small, 2021, 17, 2101728. [[PDF]](https://www.mdpi.com/2079-6412/7/9/151)
+- Microstructure and Wear Behavior of FeCoCrNiMo0.2 High Entropy Coatings Prepared by Air Plasma Spray and the High Velocity Oxy-Fuel Spray Processes<br>**Tian Chen Li**, Yong Liu, Bin Liu*, Wenmin Guo*, Liyou Xu, Small, 2021, 17, 2101728. [[PDF]](https://www.mdpi.com/2079-6412/7/9/151)
 
+- Particulate Reinforced NbMoCrTiAl High Entropy Alloy Composite Prepared by Powder Metallurgy<br>**Tian Chen Li**, Bin Liu*, Yong Liu, Wenmin Guo*, Ao Fu, Liangsheng Li, Nie Yan, Qihong Fang, Entropy, 2018, 20, 517. [[PDF]](https://www.mdpi.com/1099-4300/20/7/517)
+
+- Effect of WC content on microstructures and mechanical properties of FeCoCrNi high-entropy alloy/WC composite coatings by plasma cladding<br>ingbo Peng*, Wei Zhang*, **Tian Chen Li**, Mingyang Zhang, Bin Liu, Yong Liu, Li Wang, Songhao Hu, Surface and Coatings Technology, 2020, 385, 125326. [[PDF]](https://tianchenli.com/mypaper/2020SCT.pdf)
+
+- Microstructures and mechanical properties of FeCoCrNi high entropy alloy/WC reinforcing particles composite coatings prepared by laser cladding and plasma cladding<br>Yingbo Peng*, Wei Zhang*, **Tian Chen Li**, Mingyang Zhang, Li Wang, Yuanyuan Song, Songhao Hu, Yang Hu, International Journal of Refractory Metals and Hard Materials, 2019, 84, 105044. [[LINK]](https://doi.org/10.1016/j.surfcoat.2019.125326)
 
 ## Working Paper
 
