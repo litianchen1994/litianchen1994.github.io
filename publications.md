@@ -12,7 +12,13 @@ Lastest Update: 18th May 2023
 
 - [A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage](https://tianchenli.com/mypaper/2022AEM.pdf)<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, Advanced Energy Materials, 2022, 12, 2103231. (Front cover)
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [ZnSe Modified Zinc Metal Anodes: Toward Enhanced Zincophilicity and Ionic Diffusion](https://tianchenli.com/mypaper/2021SMALL.pdf)<br>**Tian Chen Li**, Yew Von Lim, Xuesong Xie, Xue Liang Li, Guojing Li, Daliang Fang, Yifan Li, Yee Sin Ang, Lay Kee Ang, Hui Ying Yang*, Small, 2021, 17, 2101728.
+
+- [Recent Progress in Aqueous Zinc-ion Batteries: A Deep Insight into Zinc Metal Anodes](https://tianchenli.com/mypaper/2021JMCA.pdf)<br>**Tian Chen Li**, Daliang Fang, Jintao Zhang, Mei Er Pam, Zhi Yi Leong, Juezhi Yu, Xue Liang Li, Dong Yan and Hui Ying Yang*, Journal of Materials Chemistry A, 2021, 9, 6013-6028.
+
+- [Controllable Synthesis of Two-Dimensional Molybdenum Disulfide (MoS2) for Energy-Storage Applications](https://caihanlin.com/mypaper/202208cenim.pdf)<br>Xue Liang Li#**Tian Chen Li#**, Shaozhuan Huang, Jian Zhang, Mei Er Pam, Hui Ying Yang*, ChemSusChem, 2020, 13, 1379-1391.
+
+- [A surface fluorination strategy to produce Zn anode for the 3D printable aqueous Zn batteries](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Tian Chen Li**, Congjian Lin, Min Luo, Xue Liang Li, Yifan Li, Hui Ying Yang*, Materials Today: Proceedings, 2022, 70, 333-338.
 
 ## Competition Paper
 
