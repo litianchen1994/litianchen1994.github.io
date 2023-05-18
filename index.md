@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tianchen Li (李天琛)**.
 
-I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design. I am extremely fortunate to be advised by [Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying) and about to join [Prof. Yayuan Liu's group](https://www.yayuanliu.com) soon as a postdoc. Here is [my Resume](https://tianchenli.com/file/CV-TCLi.pdf).
+I am a phD candidate majoring in **Energy Storage** at Singapore University of Technology and Design. I am extremely fortunate to be advised by [Prof. Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying) and about to join [Prof. Yayuan Liu's group](https://www.yayuanliu.com) soon as a postdoc. Here is [my Resume](https://tianchenli.com/file/CV-TCLi.pdf).
 
 ## Research Interests
 
