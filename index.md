@@ -12,7 +12,7 @@ I am now a PhD candidate at Singapore University of Technology and Design, and t
 
 ## Research Interests
 
-My current research focuses on interfacial design of zinc metal anode for aqueous zinc-ion batteries. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **interfacial design of zinc metal anode for aqueous zinc-ion batteries**. To tackles the problems of zinc metal anode and prolong the cycle life of full cells for practical application, we have disclosed many strategies by either surface modificaiton or electrolyte additive design. I wish to devote my talent to this meaningful research project and make our world more sustainable.
 
 ## News and Updates
 
