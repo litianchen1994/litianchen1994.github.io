@@ -10,6 +10,10 @@ Lastest Update: 18th May 2023
 
 ## During Ph.D. at SUTD
 
+- Interfacial Molecule Engineering for Reversible Zn Electrochemistry<br>**Tian Chen Li<sup>#</sup>**, Congjian Lin<sup>#</sup>, Min Luo, Pinji Wang, Dong-Sheng Li, Shuzhou Li, Jiang Zhou*, and Hui Ying Yang*. (In submission)
+
+- Dynamic Regulation of Interfacial pH for Highly Reversible Aqueous Zinc-Ion Batteries<br>Min Luo<sup>#</sup>,**Tian Chen Li<sup>#</sup>**, Pinji Wang, Daotong Zhang, Congjian Lin, Weimin Chen*, Hui Ying Yang*, Xiaoyan Zhou*. (In submission)
+
 - A Universal Additive Strategy to Reshape Electrolyte Solvation Structure toward Reversible Zn Storage<br>**Tian Chen Li**, Yew Von Lim, Xue Liang Li, Songzhu Luo, Congjian Lin, Daliang Fang, Sunwen Xia, Ye Wang, Hui Ying Yang*, **_Advanced Energy Materials_**, 2022, 12, 2103231. (**Front cover**) [<font color=Blue>[PDF]</font>](https://tianchenli.com/mypaper/2022AEM.pdf)
 
 - ZnSe Modified Zinc Metal Anodes: Toward Enhanced Zincophilicity and Ionic Diffusion<br>**Tian Chen Li**, Yew Von Lim, Xuesong Xie, Xue Liang Li, Guojing Li, Daliang Fang, Yifan Li, Yee Sin Ang, Lay Kee Ang, Hui Ying Yang*, **_Small_**, 2021, 17, 2101728. [<font color=Blue>[PDF]</font>](https://tianchenli.com/mypaper/2021SMALL.pdf)
