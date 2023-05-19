@@ -6,15 +6,16 @@ url: https://tianchenli.com
 
 # Owner/author information
 owner:
-  name: Tianchen Li
-  avatar: tianchen.jpg
+  name: Tian Chen Li
+  avatar: tianchenli.com/tianchen.jpg
+  # avatar: tianchen.jpg
 #  bio:
   email: litianchen1994@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: lancecai2002
   # facebook: caihanlin2002
   github: litianchen1994
-  linkedin: hanlin-cai-07b53b23b
+  # linkedin: hanlin-cai-07b53b23b
   scholar: https://scholar.google.com/citations?user=LUt6xgkAAAAJ&hl=zh-CN
   # instagram: lancecai2002
   # lastfm:
