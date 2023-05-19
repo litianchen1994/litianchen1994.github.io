@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://tianchenli.com/dog.jpg" class="floatpic" width="360" height="480">
 
-Here is **Tianchen Li (李天琛)**.
+Here is **Tian Chen Li (李天琛)**.
 
 I am now a PhD candidate at Singapore University of Technology and Design, and trying to develop **novel energy storage systems**. I am extremely fortunate to be advised by [Prof. Hui Ying Yang](https://people.sutd.edu.sg/~yanghuiying) and about to join [Prof. Yayuan Liu's group](https://www.yayuanliu.com) soon as a postdoc at Johns Hopkins University. Here is [my Resume](https://tianchenli.com/file/CV-TCLi.pdf).
 
