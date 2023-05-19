@@ -38,5 +38,5 @@ Lastest Update: 18th May 2023
 
 - Microstructures and mechanical properties of ductile NbTaTiV refractory high entropy alloy prepared by powder metallurgy<br>Wenmin Guo, Bin Liu\*, Yong Liu, **Tian Chen Li**, Ao Fu, Qihong Fang, Yan Nie, **_Journal of Alloys and Compounds_**, 2019, 776, 428-436. [<font color=Blue>[LINK]</font>](https://doi.org/10.1016/j.jallcom.2018.10.230)
 
-- Flow behavior and microstructures of powder metallurgical CrFeCoNiMo0.2 high entropy alloy during high temperature deformation<br>Jiawen Wang, Yong Liu\*, Bin Liu\*, Yan Wang, Yuankui Cao, **Tian Chen Li**, Rui Zhou, **_Journal of Alloys and Compounds_**, 2017, 689, 233-242. [<font color=Blue>[LINK]</font>](https://doi.org/10.1016/j.msea.2017.02.064)
+- Flow behavior and microstructures of powder metallurgical CrFeCoNiMo0.2 high entropy alloy during high temperature deformation<br>Jiawen Wang, Yong Liu\*, Bin Liu\*, Yan Wang, Yuankui Cao, **Tian Chen Li**, Rui Zhou, **_Materials Science and Engineering: A_**, 2017, 689, 233-242. [<font color=Blue>[LINK]</font>](https://doi.org/10.1016/j.msea.2017.02.064)
 
