@@ -6,11 +6,11 @@ title: Publications
 
 # Publications
 
-Lastest Update: 18th May 2023
+Lastest Update: 24th June 2023
 
 ## During Ph.D. at SUTD
 
-- Interfacial Molecule Engineering for Reversible Zn Electrochemistry<br>**Tian Chen Li<sup>#</sup>**, Congjian Lin<sup>#</sup>, Min Luo, Pinji Wang, Dong-Sheng Li, Shuzhou Li, Jiang Zhou\*, and Hui Ying Yang\*. (In submission)
+- Interfacial Molecule Engineering for Reversible Zn Electrochemistry<br>**Tian Chen Li<sup>#</sup>**, Congjian Lin<sup>#</sup>, Min Luo, Pinji Wang, Dong-Sheng Li, Shuzhou Li, Jiang Zhou\*, and Hui Ying Yang\*, **_ACS Energy Letters_**.  (Accepted)
 
 - Dynamic Regulation of Interfacial pH for Highly Reversible Aqueous Zinc-Ion Batteries<br>Min Luo<sup>#</sup>,**Tian Chen Li<sup>#</sup>**, Pinji Wang, Daotong Zhang, Congjian Lin, Weimin Chen\*, Hui Ying Yang\*, Xiaoyan Zhou\*. (In submission)
 
